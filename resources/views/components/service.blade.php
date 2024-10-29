@@ -12,7 +12,7 @@
     <div class="container py-5">
         <div class="section-title text-center position-relative pb-3 mb-5 mx-auto w-75" style="max-width: ;">
             <h5 class="fw-bold text-primary text-uppercase">Our Services</h5>
-            <h4 class="mb-0">Beta Infoys Solutions
+            <h4 class="mb-0">Beta Infosys Solutions
                 for Your Successful Business</h4>
             <p style="text-align: justify;">We build software development teams that grow with our clients, from the early stages to whatever they aspire to be. Our expertise includes front-end, backend, database, and server solutions for mobile, web, and desktop applications. Our purpose is to provide our clients with expert guidance and to build software vital to their organizations.</p>
         </div>

@@ -1,5 +1,5 @@
    @extends('layouts.master')
-   @section('title','Services-Beta Infoys Solutions')
+   @section('title','Services-Beta Infosys Solutions')
    @section('content')
 
    <div class="container-fluid bg-primary py-5 bg-header" style="margin-bottom: 90px;">

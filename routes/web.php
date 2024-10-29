@@ -21,3 +21,6 @@ Route::get('/services', [FrontEndController::class,'service'])->name('service');
 Route::get('/blog', [FrontEndController::class,'blog'])->name('blog');
 Route::get('/quote', [FrontEndController::class,'quote'])->name('quote');
 Route::get('/services/dev', [FrontEndController::class,'servicesDev'])->name('dev');
+Route::get('/services/web', [FrontEndController::class,'servicesWeb'])->name('web');
+Route::get('/services/mobile', [FrontEndController::class,'servicesMobile'])->name('mobile');
+Route::get('/services/qa', [FrontEndController::class,'servicesQa'])->name('qa');

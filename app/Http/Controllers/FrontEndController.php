@@ -27,4 +27,13 @@ class FrontEndController extends Controller
     public function servicesDev(){
         return view('services.dev');
     }
+    public function servicesWeb(){
+        return view('services.web');
+    }
+    public function servicesMobile(){
+        return view('services.mobile');
+    }
+    public function servicesQa(){
+        return view('services.qa');
+    }
 }
